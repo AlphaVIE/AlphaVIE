@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm Arman</h1>
+<h1 align="center">Hi there 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1280&lines=Fullstack+Developer+%F0%9F%92%BB;React+%7C+Node+%7C+TS+%7C+TailwindCSS+%7C+Java+%7C+Python;Always+curious%2C+always+learning" alt="Typing SVG" />
