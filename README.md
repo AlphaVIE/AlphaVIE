@@ -16,7 +16,6 @@
   - **Mobile:** Expo, React Native
   - **Backend:** Node.js, Express, Java, Python, a bit of Go
 - 🧠 Constantly learning & building cool stuff
-- 🐰 Fun fact: I have a bunny named **Brownie**
 
 ---
 
@@ -111,4 +110,3 @@ const stack = {
 
     🌍 Always down to explore new places
 
-    🐇 And I spend way too much time playing with my bunny Brownie
