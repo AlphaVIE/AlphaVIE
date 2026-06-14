@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎂 25 years old, based in **Vienna, Austria**
+- 🎂 26 years old, based in **Vienna, Austria**
 - 💼 I'm a passionate **Web & Software Developer**
 - 🚀 Working with:
   - **Frontend:** React, Next.js, TailwindCSS, TypeScript
