@@ -76,14 +76,6 @@ fun_fact:    will happily disappear into a rabbit hole of side projects
 
 <br/>
 
-<h2 align="center">📊 GitHub Activity</h2>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AlphaVIE&theme=tokyonight&hide_border=true&background=0f0c29&stroke=302b63&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4"/>
-</div>
-
-<br/>
-
 <h2 align="center">🎯 Currently</h2>
 
 <div align="center">
@@ -104,8 +96,8 @@ fun_fact:    will happily disappear into a rabbit hole of side projects
 <div align="center">
 
 Every now and then I go digging for bugs outside my usual fullstack lane.
-Found & coordinated the disclosure of an **IDOR vulnerability in a medical platform** (vendor went unresponsive, disclosed via CERT) —
-write-up and future findings live on <a href="https://github.com/Usagi-Sennin"><b>@Usagi-Sennin</b></a>.
+My security findings and write-ups live on a separate account,
+<a href="https://github.com/Usagi-Sennin"><b>@Usagi-Sennin</b></a>.
 
 </div>
 
