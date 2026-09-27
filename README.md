@@ -1,112 +1,133 @@
-<!-- Profile Header -->
-<h1 align="center">Hi there 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1280&lines=Fullstack+Developer+%F0%9F%92%BB;React+%7C+Node+%7C+TS+%7C+TailwindCSS+%7C+Java+%7C+Python;Always+curious%2C+always+learning" alt="Typing SVG" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🎂 26 years old, based in **Vienna, Austria**
-- 💼 I'm a passionate **Web & Software Developer**
-- 🚀 Working with:
-  - **Frontend:** React, Next.js, TailwindCSS, TypeScript
-  - **Mobile:** Expo, React Native
-  - **Backend:** Node.js, Express, Java, Python, a bit of Go
-- 🧠 Constantly learning & building cool stuff
-
----
-
-### 🛠️ Tech Stack
-
-```ts
-const stack = {
-  frontend: [
-    "HTML/CSS",
-    "TailwindCSS",
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Next.js"
-  ],
-  backend: [
-    "Node.js",
-    "Express",
-    "REST",
-    "Supabase",
-    "PostgreSQL",
-    "MySQL",
-    "Oracle",
-    "Docker",
-    "Nginx"
-  ],
-  mobile: [
-    "React Native",
-    "Expo"
-  ],
-  languages: [
-    "JavaScript",
-    "TypeScript",
-    "Java",
-    "Python",
-    "Go"
-  ],
-  tools: [
-    "Visual Studio Code",
-    "npm",
-    "HTTP",
-    "Linux",
-    "macOS",
-    "Windows",
-    "Raspberry Pi"
-  ]
-}
-
-```
-
 <div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" alt="Supabase" title="Supabase"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="npm" title="npm"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React Native" title="React Native"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/expo.png" alt="Expo" title="Expo"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle" title="Oracle"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" alt="Raspberri Pi" title="Raspberri Pi"/></code>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=AlphaVIE&fontSize=70&fontColor=00f5d4&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20Vienna%2C%20Austria&descAlignY=58&descSize=20&descColor=b8b8ff"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=750&lines=const+dev+%3D+new+FullstackDeveloper();;dev.stack(%5B%22React%22%2C%22Node%22%2C%22TypeScript%22%5D);;dev.curiosity+%3D+Infinity;;%F0%9F%9A%80+shipping+side+projects+since+forever" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AlphaVIE&style=for-the-badge&color=302b63&labelColor=0f0c29&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/AlphaVIE?style=for-the-badge&color=302b63&labelColor=0f0c29&logo=github&logoColor=00F5D4" alt="followers"/>
+
 </div>
 
+<br/>
 
-🚀 Current Goals
+```bash
+arman@vienna:~$ whoami
+```
 
-    🌱 Sharpen my Go and Java skills
+```yaml
+name:        Arman
+age:         26
+location:    Vienna, Austria 🇦🇹
+role:        Web & Software Developer
+currently:   sharpening Go + Java, building cross-platform apps with Expo
+mindset:     always curious, always shipping
+fun_fact:    will happily disappear into a rabbit hole of side projects
+```
 
-    📱 Build cross-platform apps using Expo
+<br/>
 
-    💡 Launch and scale side projects
+<h2 align="center">🧬 Tech Stack</h2>
 
-🧳 Outside of Tech...
+<div align="center">
 
-    🏋️ I love sports & working out
+**Languages**
 
-    🌍 Always down to explore new places
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 
+**Frontend**
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+**Backend & Data**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+**Mobile**
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+
+**Infra & Tools**
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlphaVIE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F5D4&icon_color=00F5D4&text_color=b8b8ff"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaVIE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F5D4&text_color=b8b8ff"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AlphaVIE&theme=tokyonight&hide_border=true&background=0f0c29&stroke=302b63&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlphaVIE&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
+</div>
+
+<br/>
+
+<h2 align="center">🎯 Currently</h2>
+
+<div align="center">
+
+|  |  |
+|---|---|
+| 🌱 | Sharpening my Go and Java skills |
+| 📱 | Building cross-platform apps with Expo |
+| 💡 | Launching and scaling side projects |
+| 🔐 | Poking around in web app security in my spare time |
+
+</div>
+
+<br/>
+
+<h2 align="center">🔐 Security Side Quest</h2>
+
+<div align="center">
+
+Every now and then I go digging for bugs outside my usual fullstack lane.
+Found & coordinated the disclosure of an **IDOR vulnerability in a medical platform** (vendor went unresponsive, disclosed via CERT) —
+write-up and future findings live on <a href="https://github.com/Usagi-Sennin"><b>@Usagi-Sennin</b></a>.
+
+</div>
+
+<br/>
+
+<h2 align="center">🧭 Outside of Tech</h2>
+
+<div align="center">
+
+🏋️ Lifting things and putting them back down &nbsp;•&nbsp; 🌍 Always down to explore somewhere new
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
