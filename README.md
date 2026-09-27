@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AlphaVIE&style=for-the-badge&color=302b63&labelColor=0f0c29&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=AlphaVIE.AlphaVIE" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/AlphaVIE?style=for-the-badge&color=302b63&labelColor=0f0c29&logo=github&logoColor=00F5D4" alt="followers"/>
 
 </div>
@@ -76,19 +76,10 @@ fun_fact:    will happily disappear into a rabbit hole of side projects
 
 <br/>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlphaVIE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F5D4&icon_color=00F5D4&text_color=b8b8ff"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaVIE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F5D4&text_color=b8b8ff"/>
-</div>
+<h2 align="center">📊 GitHub Activity</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AlphaVIE&theme=tokyonight&hide_border=true&background=0f0c29&stroke=302b63&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlphaVIE&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
 </div>
 
 <br/>
